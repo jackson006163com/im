@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_black_list.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_black_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_conversation_settings.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_pick_contacts.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_image_grid_fragment.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_image_grid_fragment.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_recorder_activity.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_recorder_activity.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_scroll_tab_item.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar_with_padding.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_edit.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_edit.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_robots.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_robots.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_file.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_chatroom.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_chatroom.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_title_bar.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_showvideo_activity.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_add_contact.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_add_contact.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_row_invite_msg.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_row_invite_msg.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_row_group.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_row_group.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_widget_contact_item.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_widget_contact_item.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_contact_list.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_main_botton_tab.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_main_botton_tab.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_search_bar_with_padding.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_emojicon.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_details.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_group_details.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_show_file.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_video.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_context_menu_for_video.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_chat.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_conversation_list.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_layout_loading_data.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_layout_loading_data.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_alert_dialog.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_voice_call.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_diagnose.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_diagnose.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_public_groups_search.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_public_groups_search.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_conversation_item.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_message.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_new_group.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_new_group.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_location.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_context_menu_for_location.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_contact_list.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_choose_griditem.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_choose_griditem.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_text.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_context_menu_for_text.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_groups.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_groups.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_picture.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_voice_call.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_voice_call.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_public_groups.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_message_list.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_baidumap.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_fragment_chat.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_video_call.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\tb_munion_adview.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_blacklist.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_group_blacklist.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_choosevideoactivity.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_row_contact_with_checkbox.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_show_file.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_video.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_image.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_context_menu_for_image.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_contacts_header.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_contacts_header.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_chat_history.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_video_call.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_new_friends_msg.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_context_menu_for_voice.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_user_profile.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_location.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_chat_neterror_item.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_chat_neterror_item.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_main_init_view.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_main_init_view.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_conversation_list.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_logout_actionsheet.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_logout_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_group_simle_details.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_group_simle_details.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_main.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_main.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_message.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_search_bar.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_register.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_register.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_contact.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_activity_show_big_image.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_voice_recorder.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_expression_gridview.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_offline_push.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_offline_push.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_widget_switch_button.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_video.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_splash.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_splash.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_picture.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_location.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_row_add_group.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_row_add_group.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_listview_footer_view.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_listview_footer_view.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_bigexpression.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_commom_back_btn.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_received_file.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_grid.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_grid.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_row_robots.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_row_robots.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_big_expression.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\tb_munion_aditem.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_video_call.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_expression.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_chat_menu_item.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_pick_contact_no_checkbox.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_fragment_contact_list.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_login.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_login.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\em_activity_chat.xml",
+        "source": "E:\\IM\\chat\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "E:\\IM\\chat\\build\\intermediates\\res\\merged\\release\\layout\\ease_row_sent_voice_call.xml",
+        "source": "E:\\IM\\chat\\build\\intermediates\\exploded-aar\\IM\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice_call.xml"
+    }
+]
